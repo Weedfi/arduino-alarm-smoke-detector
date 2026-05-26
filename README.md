@@ -1,6 +1,7 @@
 # 🔊 Arduino — System detekcji dystansu i wykrywania dymu
 
 System bezpieczeństwa oparty na Arduino Uno, który monitoruje odległość od obiektów i wykrywa obecność dymu/gazu. Sygnalizuje zagrożenie za pomocą diod LED i buzzera.
+---
 Dawid Filas, Maciej Piasecki, Damian Guz
 ---
 
